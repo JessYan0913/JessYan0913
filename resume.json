@@ -84,34 +84,21 @@
         {
             "skill_name": "React",
             "skill_level": 50
-        }
-    ],
-    "projectList": [
+        },
         {
-            "project_name": "易维1.0",
-            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
+            "skill_name": "小程序（云开发）",
+            "skill_level": 50,
+            "skill_desc": "独立开发【xxxAI识车】小程序，采用了云开发的方式快速开发活动小程序，实现小程序的AI识车、抢红包、到店签到扫码等功能。",
             "dataIndex": 3
         },
         {
-            "project_name": "对日数字货币交易所",
-            "role": "管理端开发",
-            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库"
-        },
-        {
-            "project_name": "鲸算师",
-            "role": "全栈开发",
-            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库"
-        },
-        {
-            "project_name": "易维2.0",
-            "role": "前端工程师",
-            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库"
-        },
-        {
-            "project_name": "AI识车小程序",
-            "role": "前端开发",
-            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库"
-        },
+            "skill_name": "移动端（原生Android+iOS）",
+            "skill_level": 30,
+            "skill_desc": "参与【鲸算师】的移动端开发，主要负责移动端组件封装（Android+iOS），要求两端组件API一致。\n参与【鲸算师】换肤功能开发。",
+            "dataIndex": 4
+        }
+    ],
+    "projectList": [
         {
             "project_name": "工业品售前支持系统",
             "role": "前端工程师+项目经理",
@@ -120,6 +107,17 @@
         {
             "project_name": "工业品3D协同设计引擎",
             "role": "前端工程师+项目经理",
+            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库"
+        },
+        {
+            "project_name": "易维设备保全系统",
+            "project_desc": "易维设备保全系统针对目前生产制造企业面临的纸质点检效率低下、手工记录无法溯源、数据统计难度大、回溯周期受限、纸质单据难以保管、人员培训困难等行业痛点问题，综合软件层与硬件层，形成完善的一体化解决方案。",
+            "dataIndex": 2,
+            "role": "前端开发"
+        },
+        {
+            "project_name": "对日数字货币交易所",
+            "role": "管理端开发",
             "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库"
         }
     ],
