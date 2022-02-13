@@ -88,13 +88,13 @@
         {
             "skill_name": "小程序（云开发）",
             "skill_level": 50,
-            "skill_desc": "独立开发【xxxAI识车】小程序，采用了云开发的方式快速开发活动小程序，实现小程序的AI识车、抢红包、到店签到扫码等功能",
+            "skill_desc": "独立开发【xxAI识车】小程序，采用了云开发的方式快速开发活动小程序，实现小程序的AI识车、抢红包、到店签到扫码等功能",
             "dataIndex": 3
         },
         {
             "skill_name": "移动端（原生Android+iOS）",
             "skill_level": 30,
-            "skill_desc": "参与【鲸算师】的移动端开发，主要负责移动端组件封装（Android+iOS），要求两端组件API一致。\n参与【鲸算师】换肤功能开发",
+            "skill_desc": "参与【鲸算师】的移动端开发，主要负责移动端组件封装和换肤功能开发",
             "dataIndex": 4
         }
     ],
