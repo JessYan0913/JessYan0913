@@ -35,20 +35,24 @@
     ],
     "awardList": [
         {
-            "award_info": "英语 CET6",
-            "award_time": "2015"
+            "award_info": "ISTQB认证测试工程师（CTFL）",
+            "award_time": "2019.08.15",
+            "dataIndex": 1
         },
         {
-            "award_info": "蚂蚁近卫军 卓越个人奖",
-            "award_time": "2018.09"
+            "award_info": "ISTQB测试经理（CTAL-TM）",
+            "award_time": "2019.12.19",
+            "dataIndex": 2
         },
         {
-            "award_info": "前端练习生 可视化讲师",
-            "award_time": "2020.10"
+            "award_info": "霆客编程大赛一等奖",
+            "award_time": "2020.06.28",
+            "dataIndex": 0
         },
         {
-            "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-            "award_time": "2021.07"
+            "award_info": "PMP证书",
+            "award_time": "2021.07.20",
+            "dataIndex": 3
         }
     ],
     "workExpList": [
@@ -82,23 +86,9 @@
     ],
     "skillList": [
         {
-            "skill_name": "HTML 和 CSS",
-            "skill_desc": "",
-            "skill_level": 89
-        },
-        {
-            "skill_name": "TypeScript / JavaScript",
-            "skill_level": 90
-        },
-        {
-            "skill_name": "数据可视化",
-            "skill_desc": "丰富的可视化工程实践以及开源经验",
-            "skill_level": 90
-        },
-        {
-            "skill_name": "React / 前端工程化",
-            "skill_desc": "大型前端项目经验以及组件库开发经验",
-            "skill_level": 80
+            "skill_name": "JavaScript",
+            "skill_level": 80,
+            "dataIndex": 0
         }
     ],
     "projectList": [
@@ -124,9 +114,20 @@
             "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
         }
     ],
-    "workList": [],
+    "workList": [
+        {
+            "work_name": "yapi-plugin-export-model",
+            "work_desc": "YAPI的代码生成插件，可生成Java和Oc的Model代码",
+            "visit_link": "https://github.com/JessYan0913/yapi-plugin-export-model/blob/master/package.json"
+        },
+        {
+            "work_name": "blueprint",
+            "work_desc": "2D工程图纸生成和标注工具",
+            "visit_link": ""
+        }
+    ],
     "aboutme": {
-        "aboutme_desc": "🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n    参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。\n    "
+        "aboutme_desc": "    自驱型前端工程师，三年多公司自研产品开发经验，负责【3D协同设计引擎】产品的研发，参与并主导了3D模型的展示到出图的引擎设计和开发，积累了Web端的3D可视化相关经验。\n    "
     },
     "theme": {
         "color": "#2f5785",
